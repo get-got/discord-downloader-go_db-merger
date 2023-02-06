@@ -1,2 +1,3 @@
-# discord-downloader-go_db-merger
- utility to merge multiple database folders into 1 database for discord-downloader-go
+# discord-downloader-go_db-merger (WIP!!!)
+
+Utility for discord-downloader-go to merge 2 or more databases into 1.
